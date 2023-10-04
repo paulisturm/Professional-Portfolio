@@ -13,13 +13,13 @@ function Footer () {
         <div>
             <ul className="list-group list-group-horizontal justify-content-center fixed-bottom">
                 <a href="https://github.com/paulisturm">
-                <li class="list-group-item"><FontAwesomeIcon icon={faGithub} size="4x" /></li>
+                <li class="list-group-item"><FontAwesomeIcon icon={faGithub} size="2x" /></li>
                 </a>
                 <a href="https://www.linkedin.com/in/paul-sturm-199a6a218/">
-                <li class="list-group-item"><FontAwesomeIcon icon={faLinkedin} size="4x" /></li>
+                <li class="list-group-item"><FontAwesomeIcon icon={faLinkedin} size="2x" /></li>
                 </a>
                 <a href="https://www.instagram.com/paul.sturm/">
-                <li class="list-group-item"><FontAwesomeIcon icon={faInstagram} size="4x" /></li>
+                <li class="list-group-item"><FontAwesomeIcon icon={faInstagram} size="2x" /></li>
                 </a>
             </ul>
             <div>

@@ -4,6 +4,7 @@
 }
 
 body {
+  background-image: url(../src/assets/portfolio-background.jpeg);
   font-family: Arial, Tahoma, Serif;
   color: #263238;
 }

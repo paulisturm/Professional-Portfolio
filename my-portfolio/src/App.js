@@ -5,6 +5,7 @@ import Navbar from './components/Navbar';
 import Contact from './components/Contact';
 import Projects from './components/Projects';
 import Resume from './components/Resume';
+import Footer from './components/Footer'
 
 
 function App() {
@@ -21,6 +22,9 @@ function App() {
           
           
        </Routes>
+       <footer>
+      <Footer/>
+      </footer>
     </>
   );
 }
